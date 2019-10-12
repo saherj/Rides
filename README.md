@@ -1,5 +1,5 @@
-# About My App: Recipe Finder
-This app is static at this momemt but normally user can search, favourite and add recipes.
+# About My App: Rides
+This app is displays some animation on the topic of Waterslide and Ferris wheel.
 
 # Install
 Run npm command `npm i`. i stands for install.
@@ -14,8 +14,8 @@ i - iOS Simulator
 a - Android Simulator
 
 # Convered in this Repo:
-- used componets, properties and element, flexbox, scrollview, 
+- Animations (fadeIn, spring, rotation 360, movement in x axis, Easing, dimentions), 
 
-# Things I had hard time accompling:
-- tried to have a detail page but didn't work.
-- constranit and safe areas
+# Things I had hard time accomplishing:
+- I wanted to have multiple animation on one click and I couldn't achieve that.
+- Not sure how to get rid of the warning
